@@ -7,3 +7,6 @@ The previous stack was MySQL, the repo for those assignments can be found here: 
 I am currently working through this course.
 
 # Assignments for the Flask Course 
+Understanding Routing, Objectives:
+    Practice building a server with Flask from scratch
+    Get comfortable with routes and passing information to the routes
