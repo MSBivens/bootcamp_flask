@@ -10,3 +10,9 @@ I am currently working through this course.
 Understanding Routing, Objectives:
     Practice building a server with Flask from scratch
     Get comfortable with routes and passing information to the routes
+
+Playground, Objectives:
+    Get comfortable passing information from the route to the template
+    Understand how to display information passed from the route in the template file
+    Get comfortable using for loops in the template file
+    Get comfortable using if statements in the template file
