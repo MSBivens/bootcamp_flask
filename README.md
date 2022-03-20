@@ -23,3 +23,7 @@ Checkerboard, Objectives:
     Get comfortable passing information from the route to the template
     Understand how to use for loop properly in the template 
     Recognize the value of creating a html/css first and then adding logic/code
+
+HTML Table, Objectives:
+    Get comfortable passing information from the route to the template
+    Get comfortable iterating through a list of dictionaries to generate a html output
