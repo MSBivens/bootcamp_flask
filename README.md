@@ -1,4 +1,4 @@
-# Bootcamp - FLASK Course
+# Bootcamp - Flask Course
 This is a collection of code for the Coding Dojo Bootcamp, Flask course assignments.
 This course was the third of the Python stack.
 
