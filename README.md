@@ -27,3 +27,10 @@ Checkerboard, Objectives:
 HTML Table, Objectives:
     Get comfortable passing information from the route to the template
     Get comfortable iterating through a list of dictionaries to generate a html output
+
+Fruit Stand, Objectives:
+    Practice Git
+    Get comfortable with POST and passing information via a form
+    Understand how to reference static css or images
+    Note the importance of making your key assignments/projects look better
+    Understand why rendering HTML on a URL that received a POST is a bad idea
