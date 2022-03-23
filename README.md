@@ -34,3 +34,9 @@ Fruit Stand, Objectives:
     Understand how to reference static css or images
     Note the importance of making your key assignments/projects look better
     Understand why rendering HTML on a URL that received a POST is a bad idea
+
+Counter, Objectives:
+    Practice using session to store data about a particular client's history with the app
+    Be able to check whether a session exists
+    Be able to intialize a session
+    Be able to modify a session
