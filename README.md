@@ -45,3 +45,10 @@ Great Number Game, Objectives:
     Practice using session to store data about a client's history with the web app
     Practice clearing a session
     Practice having the server use data submiutted by a client with a form
+
+Dojo Survey, Objectives:
+    Practice making a server with Flask from scratch
+    Practice adding routes to a Flask app
+    Practice having the client send data to the sever with a form
+    Practice redirecting after the POST request
+    Use session to display the form data on the result page
