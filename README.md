@@ -40,3 +40,8 @@ Counter, Objectives:
     Be able to check whether a session exists
     Be able to intialize a session
     Be able to modify a session
+
+Great Number Game, Objectives:
+    Practice using session to store data about a client's history with the web app
+    Practice clearing a session
+    Practice having the server use data submiutted by a client with a form
