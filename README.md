@@ -4,7 +4,7 @@ This course was the third of the Python stack.
 
 The previous stack was MySQL, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_mysql
 
-I am currently working through this course.
+I have completed the Flask course and moved on to the Flask + MySQL course, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_flask_mysql
 
 # Assignments for the Flask Course 
 Understanding Routing, Objectives:
